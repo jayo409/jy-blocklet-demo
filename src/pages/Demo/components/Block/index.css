@@ -1,0 +1,24 @@
+.block-container {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.block-container .block-title {
+    color: rgb(53, 63, 82);
+    font-size: 16px;
+}
+
+.block-info-list {
+    margin-top: 10px;
+}
+
+.block-info-list li {
+    display: flex;
+    padding: 6px 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.block-info-list li span {
+    width: 50%;
+    word-wrap: break-word;
+}

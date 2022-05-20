@@ -1,0 +1,9 @@
+.block-input-wrap {
+    width: 60%;
+}
+
+@media only screen and (max-device-width: 768px) {
+    .block-input-wrap {
+        width: 100%;
+    }
+}

@@ -1,0 +1,24 @@
+.transactions-container {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.transactions-container .transactions-title {
+    color: rgb(53, 63, 82);
+    font-size: 16px;
+}
+
+.transactions-info-list {
+    margin-top: 10px;
+}
+
+.transactions-info-list li {
+    display: flex;
+    padding: 6px 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.transactions-info-list li span {
+    width: 50%;
+    word-wrap: break-word;
+}
